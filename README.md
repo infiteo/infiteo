@@ -1,13 +1,4 @@
-**### 👋 Hi, I'm Matteo
-
-I'm an electronics engineering student and developer passionate about embedded systems, network protocols (SOAP, HTTP, TCP/UDP), and church media technology.
-
-🔧 At work, I maintain projects involving backend communication layers and promote the use of Proxmox for virtualization.
-
-🎸 In my spare time, I develop tools to streamline worship services, like converters for OpenLP → ProPresenter.
-
-💡 I enjoy building things that solve real problems using C and C#.
-**<h1 align="center">Hi 👋, I'm Matteo</h1>
+<h1 align="center">Hi 👋, I'm Matteo</h1>
 <p align="center">
   🎓 Electronics Engineering Student &nbsp;|&nbsp; 💻 Embedded & Backend Developer &nbsp;|&nbsp; 🎛 Church Tech Enthusiast
 </p>
